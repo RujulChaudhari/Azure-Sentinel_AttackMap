@@ -17,7 +17,6 @@
 * Remote desktop protocol
  
 ### Overview:
-![](images/azure.png)
 
 > Step-by-step overview of lab:
 1. Create Azure subscription (FREE $200 credits)
@@ -30,13 +29,13 @@
 ## Step 1: Create FREE Azure account: [Azure](https://azure.microsoft.com/en-us/free/ "Azure")
 - Click on “Go to the Azure Portal” or go to `portal.azure.com` once you create your account.
 
-![](images/S1.png)
+![](https://raw.githubusercontent.com/Tony-91/sentinel_attack_heatmap/main/images/S1.png)
 
 ## Step 2: Create our honey pot virtual machine
 - In the search bar of the “Quickstart Center” page > search and click virtual machine 
 - This will be the honey pot virtual machine made to entice attackers from all over the world
 
-![](images/S2.png)
+![](https://github.com/Tony-91/sentinel_attack_heatmap/raw/main/images/S2.png)
 
 ## Step 3: On the “virtual machines” page click Create > Azure virtual machine 
 - Edit the virtual machine as follows:

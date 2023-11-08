@@ -270,7 +270,7 @@
 - Search and click Resource group > honeypot-lab > Delete resource group
 - Type the name  *honeypot-lab* to confirm deletion 
 
-![](https://github.com/Tony-91/sentinel_attack_heatmap/raw/main/images/AzureMmap.png)
+![](https://i.imgur.com/2rDirJw.png)
 
 > And there you have it, you have successfully mapped out the location of your RDP attackers using a honey pot vm.
 

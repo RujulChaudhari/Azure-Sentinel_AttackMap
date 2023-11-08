@@ -4,7 +4,7 @@
 ### Learning Objectives:
 1. Provisioning and deprovisioning virtual environments within Azure.
 2. Third-party API calls.
-3. Security Information and Event Management - log anaylyis and visualization. 
+3. Security Information and Event Management - log analysis and visualization. 
 > NOTE: Since we will utilize RDP you will need a Windows host machine - a Windows virtual machine will also work.
 
 
@@ -26,8 +26,8 @@
 5. Set up Sentinel - Microsoft’s cloud native SIEM
 6. Use data from SIEM to map out attacker information and magnitude 
 
-## Step 1: Create FREE Azure account: [Azure](https://azure.microsoft.com/en-us/free/ "Azure")
-- Click on “Go to the Azure Portal” or go to `portal.azure.com` once you create your account.
+## Step 1: Create a FREE Azure account: [Azure](https://azure.microsoft.com/en-us/free/ "Azure")
+- Once you create your account click on “Go to the Azure Portal” or go to `portal.azure.com`.
 
 ![](https://raw.githubusercontent.com/Tony-91/sentinel_attack_heatmap/main/images/S1.png)
 
@@ -116,7 +116,7 @@
 - Before connecting, click Display and scale down display configuration for easier viewing
 - Click connect
 - In the *Enter your credentials* window click more choices > Use a different account 
-- Enter invalid credentials tin order to generate a log for later viewing.
+- Enter invalid credentials in order to generate a log for later viewing.
 - Then, enter your credentials we created for our Azure vm in Step 3, click OK.
 - Accept the certificate warning
 - You should be logged into the vm when you see “Remote Desktop Connection” at the top of the screen.
